@@ -1,10 +1,10 @@
 [中文](https://github.com/ontio/documentation/blob/master/zh-CN/standard_process_for_contributor.md)
 
-<h1 align="center">Guidelines for technical community contributions</h1>
+<h1 align="center">Guidelines for Technical Community Contributions</h1>
 
 ## Introduction
 
-Dear contributors,
+Dear Contributors,
 
 We are excited to see the enthusiasm around Ontology and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions for Ontology.
 
