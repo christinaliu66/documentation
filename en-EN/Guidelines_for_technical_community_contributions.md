@@ -1,10 +1,10 @@
 [中文](https://github.com/ontio/documentation/blob/master/zh-CN/standard_process_for_contributor.md)
 
-<h1 align="center">Guidelines for technical community contributions</h1>
+<h1 align="center">Guidelines for Technical Community Contributions</h1>
 
 ## Introduction
 
-Dear contributors,
+Dear Contributors,
 
 We are excited to see the enthusiasm around Ontology and appreciate your participation in the community. This is a guide to help you understand how to make technical contributions for Ontology.
 
@@ -12,23 +12,23 @@ Please note that these guidelines focus on technical contributions e.g. code con
 
 From the Ontology side we wish to build a highly engaged, quality community and believe that this is best achieved by teamwork. We encourage the community to form independent groups so that we, the Ontology core team, can engage on a strategic level for support and compensation. It’s important for us that the community takes responsibility for their own development and management.
 
-<h4 align="center">We believe that projects are best executed in teams and encourage contributors to form independent groups</h4>
+<h4 align="center">We believe that projects are best executed in teams and encourage contributors to form independent groups.</h4>
 
 How you chose to structure groups or function as an individual contributor is entirely up to yourself. However, for groups, we would like you to identify a single point of contact so that we can engage with someone who's carrying out the interests of the group as a whole.
 
 ## Technical contributions
 
 Ideas come from various sources and in many shapes and sizes. We encourage contributors to bring their own ideas to the table, but also get inspired by other ideas from the community.
-To get an overview of potential and ongoing projects, we are working on an index. This will be a space built and maintained by the community – dedicated to index Ontology activities so that it is more digestible for contributors and investors. For community contributors this index will include a section of projects and ideas, and you can:
+To get an overview of potential ongoing projects, we are working on an index. This will be a space built and maintained by the community – dedicated to index Ontology activities so that it is more digestible for contributors and investors. For community contributors this index will include a section of projects and ideas, and you can:
 
 - List your own ideas
 -	See other community member ideas
 -	See ideas from the Ontology Technical Committee
 
-Generally, we divide development ideas into three categories
+Generally, we divide development ideas into three categories：
 
 - Ontology enhancement proposals (OEP)
-  - E.g. major proposals to design, network, architecture, protocols or modules
+  - E.g. major proposals for design, network, architecture, protocols, or modules
 - Code contribution
   - E.g. SDK development or bug fixing
 - dApps
@@ -96,7 +96,7 @@ Ontology Technical Committee：
 
 | **Group**                                     | **Name**     | **Discord**              | **GitHub**   | **Gitter**   |
 | --------------------------------------------- | ------------ | ------------------------ | ------------ | ------------ |
-| [ontology](https://github.com/ontio/ontology) | Weng Junjie  | luodanwg                 | luodanwg     | luodanwg     |
+| [Ontology](https://github.com/ontio/ontology) | Weng Junjie  | luodanwg                 | luodanwg     | luodanwg     |
 |                                               | Zhou Yan     | harry.zy                 | harryzy      | harryzy      |
 |                                               | Tan Yuan     | tanyuan                  | tanZiWen     | tanZiWen     |
 | [OEPs](https://github.com/ontio/OEPs)         | Hu Ning      | dcjojo                   | javajoker    | javajoker    |
